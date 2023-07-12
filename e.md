@@ -1,8 +1,3 @@
----
-creation date: Wednesday July 12th 2023 12:49:47
-modification date: Wednesday July 12th 2023 12:49:47 
----
-
 ## Summary
 A Neural Network is a type of computational model that is central to many Deep Learning (a subset of Machine Learning) algorithms. Despite their ubiquity in Deep Learning applications, many view them as a black box. In this *and subsequent* blog posts I will attempt to demystify the inner mechanisms that allow Neural Networks to function. 
 
