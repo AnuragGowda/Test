@@ -1,7 +1,3 @@
----
-creation date: Wednesday July 12th 2023 14:34:54
-modification date: Wednesday July 12th 2023 14:34:54 
----
 # MNIST - Recognizing handwritten digits
 A classic introductory way to learn Machine Learning is to create a model that is able to recognize handwritten digits. Many use the MNIST (Modified National Institute of Standards and Technology) database, which contains thousands of examples of labeled handwritten digits. In this series, we will take this a step further and implement a Neural Network without using either TensorFlow/Keras or PyTorch (popular machine learning libraries), just Python and NumPy.
 
