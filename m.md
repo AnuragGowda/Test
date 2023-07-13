@@ -63,7 +63,9 @@ $$
 
 ##### Defining $a$
 It follows that we can define $a$ as  
-$$a = \text{ReLU}(z)$$
+$$
+a = \text{ReLU}(z)
+$$
 which gives us the output value of a single neuron
 
 ## Putting Everything Together
